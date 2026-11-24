@@ -3,11 +3,6 @@
 Aplikasi iOS untuk merencanakan dan memantau anggaran bulanan. Dibangun sebagai
 proyek tim saat **Apple Foundation Program @ UC** (28 April – 23 Mei 2025).
 
-> **Catatan asal:** repository ini adalah unggahan ulang dari proyek tim dengan
-> izin. Riwayat commit asli ada di
-> [`irfandwisamudra/budgethink`](https://github.com/irfandwisamudra/budgethink).
-> Kredit untuk seluruh anggota tim tetap dihormati.
-
 ## Fitur
 
 - **Dashboard**
