@@ -1,7 +1,7 @@
 # BudgeThink
 
-Aplikasi iOS untuk merencanakan dan memantau anggaran bulanan. Dibangun sebagai
-proyek tim saat **Apple Foundation Program @ UC** (28 April – 23 Mei 2025).
+Aplikasi iOS untuk merencanakan dan memantau anggaran bulanan. Dibangun saat
+**Apple Foundation Program @ UC** (28 April – 23 Mei 2025).
 
 ## Fitur
 
